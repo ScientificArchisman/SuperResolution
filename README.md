@@ -1,6 +1,6 @@
-# 📦 Streamlit App Starter Kit 
+# 📦 Super Resolution Tool
 ```
-⬆️ (Replace above with your app's name)
+⬆️ This is a super resolution tool using Super Resolution GANs.
 ```
 
 Description of the app ...
